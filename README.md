@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soyedmdsolemanfajul@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SoyedFajol/relbai/blob/main/Soyed%20Fajul%20CV.pdf](https://github.com/SoyedFajol/relbai/blob/main/Soyed%20Fajul%20CV.pdf)
+- 📄 Know about my experiences [https://github.com/SoyedFajol/relbai/blob/main/Soyed_P_%20Fajul%20CV.pdf](https://github.com/SoyedFajol/relbai/blob/main/Soyed_P_%20Fajul%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
