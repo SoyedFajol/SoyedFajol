@@ -136,6 +136,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyedfajol&show_icons=true&
+  <img src="https://github-readme-stats.vercel.app/api?username=soyedfajol&
 ::contentReference[oaicite:0]{index=0}
  
