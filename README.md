@@ -14,7 +14,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/l378lx1ZDQEM82wec/giphy.gif" width="30" /> 
-  QA Engineer | Bug Hunter | Code Exploiter
+  QA Engineer | Bug Hunter | Code Exploiter | Backend Developer | Problem Solver 
   <img src="https://media.giphy.com/media/l378lx1ZDQEM82wec/giphy.gif" width="30" />
 </h3>
 
